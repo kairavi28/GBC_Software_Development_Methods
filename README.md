@@ -1,3 +1,10 @@
+Course: Software Development Methodologies
+Student ID: 101326887
+Name: Kairavi Parmar
+
+Lab 03 Assignment Submission.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
